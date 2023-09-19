@@ -1,0 +1,4 @@
+if SHIELD_HAO84
+
+config ZMK_KEYBOARD_NAME
+    default "Hao84"
