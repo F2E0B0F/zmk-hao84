@@ -2,7 +2,7 @@ file_format: "1"
 id: hao84
 name: Hao84
 type: shield
-url: https://github.com/foostan/crkbd/
+url: https://github.com/F2E0B0F/zmk-kc84
 requires:
   - nrf52840dk_nrf52840
 exposes:
