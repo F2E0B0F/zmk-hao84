@@ -1,0 +1,13 @@
+file_format: "1"
+id: hao84
+name: Hao84
+type: shield
+url: https://github.com/foostan/crkbd/
+requires:
+  - nrf52840dk_nrf52840
+exposes:
+  - adc_batt
+
+features:
+  - keys
+  - ble
