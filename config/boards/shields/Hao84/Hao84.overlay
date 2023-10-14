@@ -54,10 +54,10 @@
             >;
         };
 
-        vbatt: vbatt {
-            compatible = "zmk,battery-nrf-vddh";
-            label = "VBATT";
-        };
+        //        vbatt: vbatt {
+            //            compatible = "zmk,battery-voltage-divider"
+            //            label = "VBATT";
+        //      };
 
     };
 };
